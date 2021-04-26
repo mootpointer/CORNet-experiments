@@ -1,4 +1,4 @@
-# CORnet-experiments
+# [CORnet-experiments](https://github.com/mootpointer/CORnet-experiments)
 
 Based on the [CORnet Paper](https://www.biorxiv.org/content/10.1101/408385v1)
 
