@@ -9,5 +9,5 @@
  - Look for similarities in V1 (angled gratings etc)
  - Find evidence for "Gradmother Cells"
 
-# Goal 3: Experiment with visual phenomena
+## Goal 3: Experiment with visual phenomena
  - Here be dragons
