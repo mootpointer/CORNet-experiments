@@ -1,5 +1,7 @@
 # CORnet-experiments
 
+Based on the [CORnet Paper](https://www.biorxiv.org/content/10.1101/408385v1)
+
 ## Goal 1: Re-implement CORnet
  - Use PyTorch with some FastAI
  - Demonstrate core NN concepts as we go
