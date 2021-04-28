@@ -9,7 +9,7 @@ Based on the [CORnet Paper](https://www.biorxiv.org/content/10.1101/408385v1)
 
 ## Goal 2: Compare to what we know about ventral visual stream
  - Look for similarities in V1 (angled gratings etc)
- - Find evidence for "Gradmother Cells"
+ - Find evidence for "Grandmother Cells"
 
 ## Goal 3: Experiment with visual phenomena
  - Here be dragons
